@@ -20,7 +20,7 @@ body {
   font-family: fantasy, cursive;
 }
 
-@media (max-width:768px) {
+@media (max-width: 768px) {
 
   .header {
     text-align: center;
@@ -71,6 +71,10 @@ button {
 
 button:hover {
   color: #3a3a3a;
+}
+
+#top-section-for-adding-element-to-list{
+  padding: 15px 0;
 }
 
 /* Heading */
